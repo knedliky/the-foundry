@@ -12,6 +12,8 @@ pipenv = "*"
 install = "*"
 scikit-learn = "*"
 pyarrow = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
