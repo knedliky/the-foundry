@@ -12,6 +12,9 @@ A secondary aspect to this project will be the ability to predict the value of a
 
 ## Data
 
+> ⚠️ Warning
+> Domain has changed their API to be paid ($500/ month). Data captured during this project was from April 2022 to September 2023.
+
 - Weekly house sales results
 - Australian Bureau of Statistics (ABS)
   - Monthly Cash rate
